@@ -6,4 +6,4 @@ Note, BIDMAS/PIMDAS is ignored: A + B × C is the same as (A + B) × C, working 
 
 Hint: a good place to start is look for lines where the answer is a semi-prime with a multiplication sign (one of the factors has to be on the side with one space)
 
-Live DEMO : ulikgames.github.io/Math-Square
+Live DEMO : https://ulikgames.github.io/Math-Square
